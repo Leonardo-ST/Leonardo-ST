@@ -1,5 +1,6 @@
 ### Eai, tudo bem?🤗
 
+Olá, Eu me chamo Leonardo sou um desenvolvedor de bot em javascript para discord, estou sempre aprendendo coisas novas!😉
 <!--
 **Leonardo-ST/Leonardo-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
