@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## 🛠 Github Status:
 ![profile] ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=Leonardo-ST&show_icons=true&theme=midnight-purple
+[profile]: https://github-readme-stats.vercel.app/api?username=Leonardo-ST&show_icons=true&theme=vue-dark
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ST&theme=midnight-purple
 
