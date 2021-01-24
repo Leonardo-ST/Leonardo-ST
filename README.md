@@ -1,4 +1,4 @@
-### Eai, tudo bem?🤗
+### Eai, tudo bem?
 
 Olá, Eu me chamo Leonardo e tenho 18 anos.Sou um desenvolvedor de bot em javascript para discord, estou sempre aprendendo coisas novas!😉
 <!--
