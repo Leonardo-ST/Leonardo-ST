@@ -1,6 +1,5 @@
-### Eai, tudo bem?
-
-Olá, Eu me chamo Leonardo e tenho 18 anos.Sou um desenvolvedor de bot em javascript para discord, estou sempre aprendendo coisas novas!😉
+## Quem é você?
+Prazer me chamo Leonardo, sou desenvolvedor de bots utilizando a discord.js.
 <!--
 **Leonardo-ST/Leonardo-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
