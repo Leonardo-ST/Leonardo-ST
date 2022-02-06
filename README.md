@@ -1,5 +1,6 @@
+<!-----
 <a href='https://discord.com/users/685611142818693152'><img src="https://discord.c99.nl/widget/theme-2/685611142818693152.png" alt="top-langs"></a> </p>
-
+----->
 ## Quem é você?
 Prazer me chamo Leonardo, sou desenvolvedor de bots utilizando a discord.js.
 <!--
