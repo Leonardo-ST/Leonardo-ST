@@ -2,7 +2,7 @@
 <a href='https://discord.com/users/685611142818693152'><img src="https://discord.c99.nl/widget/theme-2/685611142818693152.png" alt="top-langs"></a> </p>
 ----->
 ## Quem é você?
-Prazer me chamo Leonardo, sou desenvolvedor web, eu faço sites e outras coisas, estou sempre querendo aprender para memlhorar minhas habilidades
+Prazer me chamo Leonardo, sou desenvolvedor web, eu faço sites e outras coisas, estou sempre querendo aprender para melhorar minhas habilidades
 <!--
 **Leonardo-ST/Leonardo-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
