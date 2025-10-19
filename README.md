@@ -9,7 +9,7 @@ I like transforming complex ideas into intuitive digital experiences — from fu
 - **Backend & APIs:** I focus on structured, maintainable backends using **Express**, always prioritizing clarity and performance.
 
 ### 📘 Currently Learning
-`React` • `Database Design` • `Japanese Language`
+`Java` • `Database Design` • `Japanese Language`
 
 ### 🎯 Goals
 I’m focused on improving my technical skills and deepening my understanding of software design and system architecture.  
@@ -20,7 +20,7 @@ Outside programming, I enjoy drawing, learning languages, and exploring creative
 I believe continuous learning and creativity are key to becoming a better engineer and communicator.
 
 ### 🛠️ Tech Stack
-`JavaScript` • `TypeScript` • `Node.js` • `Next.js` • `HTML` • `CSS` • `Express` • `Oceanic.js` • `Git`
+`JavaScript` • `TypeScript` • `Node.js` • `Next.js` • `HTML` • `CSS` • `Express` • `Git`
 
 ---
 
