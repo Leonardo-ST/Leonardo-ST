@@ -1,29 +1,28 @@
 ## 👋 About Me
 
-Hi there! I'm **Leonardo**, a Computer Science student and passionate developer who loves building things that connect people and ideas.  
-I enjoy turning complex concepts into intuitive experiences — whether through web apps, Discord bots, or data-driven projects.
+Hi there! I'm **Leonardo**, a Computer Science student and passionate developer who loves creating meaningful digital experiences.  
+I enjoy transforming complex ideas into intuitive, accessible solutions — from web applications to community-driven tools.
 
 ### 💻 What I Do
-- **Web Development:** I work with modern tools like **JavaScript**, **TypeScript**, **Node.js**, and **Next.js**, creating responsive and well-structured applications.  
-- **Automation & Bots:** I’ve developed bots that integrate APIs, manage communities, and process real-time data efficiently.  
-
+- **Web Development:** I build modern, responsive web apps using **JavaScript**, **TypeScript**, **Node.js**, and **Next.js**.  
+- **Automation & Bots:** I’ve developed systems and Discord bots that streamline tasks, improve engagement, and integrate with APIs.  
+- **Backend & APIs:** I design and maintain structured, efficient backends with **Express** and data-focused logic.
 
 ### 🎯 Current Focus
-I'm currently working on projects that bridge **technology and language**, aiming to make cross-cultural communication more natural and accessible.  
-In the long run, I want to contribute to research that combines **AI**, **linguistics**, and **human connection**.
+I'm currently focused on refining my development workflow and building projects that connect people through technology.  
+My goal is to create software that’s both technically solid and genuinely useful in real-world contexts.
 
 ### 🌱 Beyond Code
-When I’m not coding, you’ll probably find me watching anime, sketching ideas, or refining my Japanese.  
-I believe that creativity and logic go hand in hand — and the best software often comes from both.
+Outside programming, I enjoy anime, drawing, and exploring languages and cultures — especially Japanese.  
+I see creativity as a bridge between art and logic, and I believe both are essential in great software design.
 
 ### 🛠️ Tech Stack
-`JavaScript` • `TypeScript` • `Node.js` • `Next.js` • `HTML` • `CSS` • `Express` • `Git`
+`JavaScript` • `TypeScript` • `Node.js` • `Next.js` • `HTML` • `CSS` • `Express` • `Oceanic.js` • `Git`
 
 ---
 
-> “Technology is most powerful when it speaks the same language as the people it serves.”  
+> “Technology should make life clearer, not more complicated.”  
 > — Leonardo
-
 
 ## 🛠 Github Status:
 ![profile] ![languages]
