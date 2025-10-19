@@ -1,20 +1,23 @@
 ## 👋 About Me
 
-Hi there! I'm **Leonardo**, a Computer Science student and passionate developer who loves creating meaningful digital experiences.  
-I enjoy transforming complex ideas into intuitive, accessible solutions — from web applications to community-driven tools.
+Hi! I'm **Leonardo**, a Computer Science student and web developer who enjoys building practical and meaningful software.  
+I like transforming complex ideas into intuitive digital experiences — from full-stack web projects to tools that make daily life easier.
 
 ### 💻 What I Do
-- **Web Development:** I build modern, responsive web apps using **JavaScript**, **TypeScript**, **Node.js**, and **Next.js**.  
-- **Automation & Bots:** I’ve developed systems and Discord bots that streamline tasks, improve engagement, and integrate with APIs.  
-- **Backend & APIs:** I design and maintain structured, efficient backends with **Express** and data-focused logic.
+- **Web Development:** I build modern, responsive applications using **JavaScript**, **TypeScript**, **Node.js**, and **Next.js**.  
+- **Automation & Bots:** I create systems and Discord bots that automate workflows and integrate APIs efficiently.  
+- **Backend & APIs:** I focus on structured, maintainable backends using **Express**, always prioritizing clarity and performance.
 
-### 🎯 Current Focus
-I'm currently focused on refining my development workflow and building projects that connect people through technology.  
-My goal is to create software that’s both technically solid and genuinely useful in real-world contexts.
+### 📘 Currently Learning
+`React` • `Database Design` • `Japanese Language`
+
+### 🎯 Goals
+I’m focused on improving my technical skills and deepening my understanding of software design and system architecture.  
+My goal is to create solutions that are both technically sound and truly useful in real-world contexts.
 
 ### 🌱 Beyond Code
-Outside programming, I enjoy anime, drawing, and exploring languages and cultures — especially Japanese.  
-I see creativity as a bridge between art and logic, and I believe both are essential in great software design.
+Outside programming, I enjoy drawing, learning languages, and exploring creative ways to express ideas.  
+I believe continuous learning and creativity are key to becoming a better engineer and communicator.
 
 ### 🛠️ Tech Stack
 `JavaScript` • `TypeScript` • `Node.js` • `Next.js` • `HTML` • `CSS` • `Express` • `Oceanic.js` • `Git`
@@ -23,6 +26,9 @@ I see creativity as a bridge between art and logic, and I believe both are essen
 
 > “Technology should make life clearer, not more complicated.”  
 > — Leonardo
+
+### 📫 Contact
+[Portfolio](https://www.leonardodev.fun) • [LinkedIn](https://www.linkedin.com/in/leonardo-soares-tavares-26232a229/) • [Email](mailto:contact@leonardodev.fun)
 
 <!---------
 ## 🛠 Github Status:
